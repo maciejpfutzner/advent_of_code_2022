@@ -1,1 +1,1 @@
-# advent_of_code_2022
+# Solutions for the [2022 Advent of Code challenge](https://adventofcode.com/2022)
